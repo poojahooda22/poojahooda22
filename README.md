@@ -20,6 +20,7 @@
 </h3>
 <p>
    <img width="40" height="40" src="https://skillicons.dev/icons?i=javascript"></img>
+    <img width="40" height="40" src="https://skillicons.dev/icons?i=ts"></img>
     <img width="40" height="40" src="https://skillicons.dev/icons?i=html"></img>
      <img width="40" height="40" src="https://skillicons.dev/icons?i=css"></img>
   <img width="40" height="40" src="https://skillicons.dev/icons?i=java"></img>
