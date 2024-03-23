@@ -13,9 +13,9 @@
 <div>
   <h2>⚡ Technologies </h2>
 </div>
-<h3 class="heading-element" dir="auto">
+<h4 class="heading-element" dir="auto">
   Languages: 
-</h3>
+</h4>
 <p>
    <img width="40" height="40" src="https://skillicons.dev/icons?i=javascript"></img>&nbsp;&nbsp;
     <img width="40" height="40" src="https://skillicons.dev/icons?i=ts"></img>&nbsp;&nbsp;
@@ -35,9 +35,9 @@
   <img width="40" height="40" src="https://skillicons.dev/icons?i=vite"></img>&nbsp;&nbsp;
    <img width="40" height="40" src="https://skillicons.dev/icons?i=materialui"></img>&nbsp;&nbsp;
   </p>
-<h3 class="heading-element" dir="auto">
+<h4 class="heading-element" dir="auto">
  Database:  
-</h3>
+</h4>
 <p>  
 <img width="40" height="40" src="https://skillicons.dev/icons?i=mongodb"></img>&nbsp;&nbsp;
 <img width="40" height="40" src="https://skillicons.dev/icons?i=mysql"></img>&nbsp;&nbsp;
@@ -47,7 +47,7 @@
  <img width="40" height="40" src="https://skillicons.dev/icons?i=aws"></img>&nbsp;&nbsp;
   <img width="40" height="40" src="https://skillicons.dev/icons?i=planetscale"></img>&nbsp;&nbsp;
 </p>
-<h3>Other Tools:</h3>
+<h4>Other Tools:</h4>
 <p>
  <img width="40" height="40" src="https://skillicons.dev/icons?i=vscode"></img>&nbsp;&nbsp;
  <img width="40" height="40" src="https://skillicons.dev/icons?i=idea"></img>&nbsp;&nbsp;
@@ -56,9 +56,9 @@
   <img width="40" height="40" src="https://skillicons.dev/icons?i=figma"></img>&nbsp;&nbsp;
   <img width="40" height="40" src="https://skillicons.dev/icons?i=replit"></img>&nbsp;&nbsp;
 </p>
-  <h3  class="heading-element" dir="auto">
+  <h4  class="heading-element" dir="auto">
     Motion:
-  </h3>
+  </h4>
    <img width="40" height="40" src="https://skillicons.dev/icons?i=p5js"></img>&nbsp;&nbsp;
     <img width="40" height="40" src="https://skillicons.dev/icons?i=framermotion"></img>&nbsp;&nbsp;
 
