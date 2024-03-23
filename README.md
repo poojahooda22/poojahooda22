@@ -14,9 +14,9 @@
   <h2>⚡ Technologies </h2>
 </div>
 <h3 class="heading-element" dir="auto">
-  "Language: 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Libraries & Framework:"
+  Language: 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Libraries & Framework:
 </h3>
 
 <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/9c9cf5a2-cf83-4ccd-be90-f090a2d703cc"></img>
