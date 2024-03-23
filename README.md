@@ -14,9 +14,9 @@
   <h2>⚡ Technologies </h2>
 </div>
 <h3 class="heading-element" dir="auto">
-  Language: 
+  Languages: 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  Libraries & Framework:
+  Libraries & Frameworks:
 </h3>
 <p>
    <img width="40" height="40" src="https://skillicons.dev/icons?i=javascript"></img>&nbsp;&nbsp;
@@ -51,6 +51,7 @@
   <img width="40" height="40" src="https://skillicons.dev/icons?i=planetscale"></img>&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img width="40" height="40" src="https://skillicons.dev/icons?i=vscode"></img>&nbsp;&nbsp;
+ <img width="40" height="40" src="https://skillicons.dev/icons?i=idea"></img>&nbsp;&nbsp;
   <img width="40" height="40" src="https://skillicons.dev/icons?i=git"></img>&nbsp;&nbsp;
    <img width="40" height="40" src="https://skillicons.dev/icons?i=postman"></img>&nbsp;&nbsp;
   <img width="40" height="40" src="https://skillicons.dev/icons?i=figma"></img>&nbsp;&nbsp;
