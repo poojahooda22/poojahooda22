@@ -49,7 +49,7 @@
 <img width="40" height="40" src="https://skillicons.dev/icons?i=prisma"></img>
  <img width="40" height="40" src="https://skillicons.dev/icons?i=aws"></img>
   <img width="40" height="40" src="https://skillicons.dev/icons?i=planetscale"></img>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img width="40" height="40" src="https://skillicons.dev/icons?i=vscode"></img>
   <img width="40" height="40" src="https://skillicons.dev/icons?i=git"></img>
    <img width="40" height="40" src="https://skillicons.dev/icons?i=postman"></img>
