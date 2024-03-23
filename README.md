@@ -1,4 +1,4 @@
-<html>
+
 
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -23,13 +23,15 @@
   <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/9ee73814-8d25-4f20-837f-d83f41c34c69"></img>
   <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/d1f29209-d3d3-41c6-bbba-331c8b18aeda"></img>
   <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/9b9b3607-396b-4e85-9f41-fc1f3e7359b3"></img>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-  <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/9b9b3607-396b-4e85-9f41-fc1f3e7359b3"></img>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/2d7f6bb7-78ce-4d22-84f5-9be1bc630674"></img>
+  <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/b9ddb86a-a504-4f00-9c8d-eb38cc8b695e"></img>
+  <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/98f81f1b-4c64-45df-a3cc-148f9ee5cfee"></img>
+
+
 </p>
 
 
-
-</html>
                                             
 Database :                          
 Other Tools :
