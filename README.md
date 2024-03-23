@@ -27,7 +27,7 @@
   <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/2d7f6bb7-78ce-4d22-84f5-9be1bc630674"></img>
   <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/b9ddb86a-a504-4f00-9c8d-eb38cc8b695e"></img>
   <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/98f81f1b-4c64-45df-a3cc-148f9ee5cfee"></img>
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=next"></img>
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=next,graphql,redux"></img>
   
 <h3 class="heading-element" dir="auto">
  Database: 
