@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div>
-  <h2> Hi, I'm Pooja, great to see you here 👋</h2>
+  <h2> Hi, I'm <span color="blue">Pooja</span>, great to see you here 👋</h2>
 </div>
 <hr/>
 <p>
