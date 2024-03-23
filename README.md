@@ -23,6 +23,7 @@
   <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/9ee73814-8d25-4f20-837f-d83f41c34c69"></img>
   <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/d1f29209-d3d3-41c6-bbba-331c8b18aeda"></img>
   <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/9b9b3607-396b-4e85-9f41-fc1f3e7359b3"></img>
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=java"></img>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/2d7f6bb7-78ce-4d22-84f5-9be1bc630674"></img>
   <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/b9ddb86a-a504-4f00-9c8d-eb38cc8b695e"></img>
@@ -30,6 +31,7 @@
   <img width="40" height="40" src="https://skillicons.dev/icons?i=next"></img>
   <img width="40" height="40" src="https://skillicons.dev/icons?i=graphql"></img>
   <img width="40" height="40" src="https://skillicons.dev/icons?i=redux"></img>
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=vite"></img>
   
 <h3 class="heading-element" dir="auto">
  Database: 
@@ -41,11 +43,21 @@
 <img width="40" height="40" src="https://skillicons.dev/icons?i=mongodb"></img>
 <img width="40" height="40" src="https://skillicons.dev/icons?i=mysql"></img>
 <img width="40" height="40" src="https://skillicons.dev/icons?i=firebase"></img>
+<img width="40" height="40" src="https://skillicons.dev/icons?i=googlecloud"></img>
+<img width="40" height="40" src="https://skillicons.dev/icons?i=prisma"></img>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/0569f9cf-556c-46a5-8e09-c4d9ac74add5"></img>
 <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/b1db1e20-617c-4f5b-96b4-8e8821a8197b"></img>
   <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/abdafc32-0c5e-46d1-b00f-2894b0aa563c"></img>
   <img width="40" height="40" src="https://skillicons.dev/icons?i=figma"></img>
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=replit"></img>
+
+  <h3  class="heading-element" dir="auto">
+    Motion:
+    <img width="40" height="40" src="https://skillicons.dev/icons?i=p5js"></img>
+    <img width="40" height="40" src="https://skillicons.dev/icons?i=gsap"></img>
+    <img width="40" height="40" src="https://skillicons.dev/icons?i=matterjs"></img>
+  </h3>
 
 
 
