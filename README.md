@@ -25,9 +25,10 @@
      <img width="40" height="40" src="https://skillicons.dev/icons?i=css"></img>
   <img width="40" height="40" src="https://skillicons.dev/icons?i=java"></img>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/2d7f6bb7-78ce-4d22-84f5-9be1bc630674"></img>
-  <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/b9ddb86a-a504-4f00-9c8d-eb38cc8b695e"></img>
-  <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/98f81f1b-4c64-45df-a3cc-148f9ee5cfee"></img>
+   <img width="40" height="40" src="https://skillicons.dev/icons?i=react"></img>
+    <img width="40" height="40" src="https://skillicons.dev/icons?i=nodejs"></img>
+     <img width="40" height="40" src="https://skillicons.dev/icons?i=tailwindcss"></img>
+      <img width="40" height="40" src="https://skillicons.dev/icons?i=express"></img>
   <img width="40" height="40" src="https://skillicons.dev/icons?i=next"></img>
   <img width="40" height="40" src="https://skillicons.dev/icons?i=graphql"></img>
   <img width="40" height="40" src="https://skillicons.dev/icons?i=redux"></img>
@@ -47,6 +48,7 @@
 <img width="40" height="40" src="https://skillicons.dev/icons?i=gcp"></img>
 <img width="40" height="40" src="https://skillicons.dev/icons?i=prisma"></img>
  <img width="40" height="40" src="https://skillicons.dev/icons?i=aws"></img>
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=planetscale"></img>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <img width="40" height="40" src="https://skillicons.dev/icons?i=vscode"></img>
   <img width="40" height="40" src="https://skillicons.dev/icons?i=git"></img>
