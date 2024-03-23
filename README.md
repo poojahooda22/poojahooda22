@@ -28,9 +28,7 @@
   <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/b9ddb86a-a504-4f00-9c8d-eb38cc8b695e"></img>
   <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/98f81f1b-4c64-45df-a3cc-148f9ee5cfee"></img>
   <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/b9b30d5e-f4f2-41dc-97f4-c2276d61f18f"></img>
-  <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/a8f5503f-1ac5-41a5-bd6b-d9ed97b7f890"></img>
-  <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/6c48326b-4875-42f7-ae23-1a4556f6e7e4"></img>
-  <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/b7dbd8d5-bbc2-461a-8944-3f4e1bcde5bd"></img>
+
 
 
 </p>
