@@ -4,7 +4,6 @@
 <div>
   <h2> Hi, I'm <span color="blue">Pooja</span>, great to see you here 👋</h2>
 </div>
-<hr/>
 <p>
   I am a Full Stack Developer, skilled in technologies like JavaScript, TypeScript, React.js, and Node.js. Passionate about leveraging technology for innovative solutions, I've contributed to projects integrating frontend libraries with API and cloud technologies, demonstrating my ability to innovate and execute complex projects. Eager to collaborate and drive impactful technology solutions, let's connect to explore potential opportunities.
 </p>
