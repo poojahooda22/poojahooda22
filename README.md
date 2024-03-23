@@ -13,13 +13,18 @@
 <div>
   <h2>⚡ Technologies </h2>
 </div>
-<p>Language:</p>
+<h3 class="heading-element" dir="auto">
+  "Language: 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  Libraries & Framework:"
+</h3>
+
 <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/9c9cf5a2-cf83-4ccd-be90-f090a2d703cc"></img>
 <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/9ee73814-8d25-4f20-837f-d83f41c34c69"></img>
 <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/d1f29209-d3d3-41c6-bbba-331c8b18aeda"></img>
 <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/9b9b3607-396b-4e85-9f41-fc1f3e7359b3"></img>
-"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
-<p>Libraries & Framework:</p>
+
+
 </html>
                                             
 Database :                          
