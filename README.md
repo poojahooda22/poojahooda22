@@ -19,21 +19,21 @@
   Libraries & Framework:
 </h3>
 <p>
-   <img width="40" height="40" src="https://skillicons.dev/icons?i=javascript"></img>
-    <img width="40" height="40" src="https://skillicons.dev/icons?i=ts"></img>
-    <img width="40" height="40" src="https://skillicons.dev/icons?i=html"></img>
-     <img width="40" height="40" src="https://skillicons.dev/icons?i=css"></img>
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=java"></img>
+   <img width="40" height="40" src="https://skillicons.dev/icons?i=javascript"></img>&nbsp;&nbsp;
+    <img width="40" height="40" src="https://skillicons.dev/icons?i=ts"></img>&nbsp;&nbsp;
+    <img width="40" height="40" src="https://skillicons.dev/icons?i=html"></img>&nbsp;&nbsp;
+     <img width="40" height="40" src="https://skillicons.dev/icons?i=css"></img>&nbsp;&nbsp;
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=java"></img>&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img width="40" height="40" src="https://skillicons.dev/icons?i=react"></img>
-    <img width="40" height="40" src="https://skillicons.dev/icons?i=nodejs"></img>
-     <img width="40" height="40" src="https://skillicons.dev/icons?i=tailwindcss"></img>
-      <img width="40" height="40" src="https://skillicons.dev/icons?i=express"></img>
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=next"></img>
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=graphql"></img>
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=redux"></img>
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=vite"></img>
-   <img width="40" height="40" src="https://skillicons.dev/icons?i=materialui"></img>
+   <img width="40" height="40" src="https://skillicons.dev/icons?i=react"></img>&nbsp;&nbsp;
+    <img width="40" height="40" src="https://skillicons.dev/icons?i=nodejs"></img>&nbsp;&nbsp;
+     <img width="40" height="40" src="https://skillicons.dev/icons?i=tailwindcss"></img>&nbsp;&nbsp;
+      <img width="40" height="40" src="https://skillicons.dev/icons?i=express"></img>&nbsp;&nbsp;
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=next"></img>&nbsp;&nbsp;
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=graphql"></img>&nbsp;&nbsp;
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=redux"></img>&nbsp;&nbsp;
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=vite"></img>&nbsp;&nbsp;
+   <img width="40" height="40" src="https://skillicons.dev/icons?i=materialui"></img>&nbsp;&nbsp;
   
 <h3 class="heading-element" dir="auto">
  Database: 
