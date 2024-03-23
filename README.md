@@ -1,4 +1,6 @@
-<div id="header" align="center">
+<html>
+
+  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div>
@@ -18,7 +20,7 @@
 <img width="40" height="40" src="https://github.com/poojahooda22/poojahooda22/assets/91055527/9b9b3607-396b-4e85-9f41-fc1f3e7359b3"></img>
 "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
 <p>Libraries & Framework:</p>
-
+</html>
                                             
 Database :                          
 Other Tools :
