@@ -15,7 +15,7 @@
 </div>
 <h3 class="heading-element" dir="auto">
   Language: 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Libraries & Framework:
 </h3>
 <p>
@@ -37,30 +37,30 @@
   
 <h3 class="heading-element" dir="auto">
  Database: 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   Other Tools:
 </h3>
 <p>
   
-<img width="40" height="40" src="https://skillicons.dev/icons?i=mongodb"></img>
-<img width="40" height="40" src="https://skillicons.dev/icons?i=mysql"></img>
-<img width="40" height="40" src="https://skillicons.dev/icons?i=firebase"></img>
-<img width="40" height="40" src="https://skillicons.dev/icons?i=gcp"></img>
-<img width="40" height="40" src="https://skillicons.dev/icons?i=prisma"></img>
- <img width="40" height="40" src="https://skillicons.dev/icons?i=aws"></img>
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=planetscale"></img>
+<img width="40" height="40" src="https://skillicons.dev/icons?i=mongodb"></img>&nbsp;&nbsp;
+<img width="40" height="40" src="https://skillicons.dev/icons?i=mysql"></img>&nbsp;&nbsp;
+<img width="40" height="40" src="https://skillicons.dev/icons?i=firebase"></img>&nbsp;&nbsp;
+<img width="40" height="40" src="https://skillicons.dev/icons?i=gcp"></img>&nbsp;&nbsp;
+<img width="40" height="40" src="https://skillicons.dev/icons?i=prisma"></img>&nbsp;&nbsp;
+ <img width="40" height="40" src="https://skillicons.dev/icons?i=aws"></img>&nbsp;&nbsp;
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=planetscale"></img>&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img width="40" height="40" src="https://skillicons.dev/icons?i=vscode"></img>
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=git"></img>
-   <img width="40" height="40" src="https://skillicons.dev/icons?i=postman"></img>
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=figma"></img>
-  <img width="40" height="40" src="https://skillicons.dev/icons?i=replit"></img>
+ <img width="40" height="40" src="https://skillicons.dev/icons?i=vscode"></img>&nbsp;&nbsp;
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=git"></img>&nbsp;&nbsp;
+   <img width="40" height="40" src="https://skillicons.dev/icons?i=postman"></img>&nbsp;&nbsp;
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=figma"></img>&nbsp;&nbsp;
+  <img width="40" height="40" src="https://skillicons.dev/icons?i=replit"></img>&nbsp;&nbsp;
 
   <h3  class="heading-element" dir="auto">
     Motion:
   </h3>
-   <img width="40" height="40" src="https://skillicons.dev/icons?i=p5js"></img>
-    <img width="40" height="40" src="https://skillicons.dev/icons?i=framer"></img>
+   <img width="40" height="40" src="https://skillicons.dev/icons?i=p5js"></img>&nbsp;&nbsp;
+    <img width="40" height="40" src="https://skillicons.dev/icons?i=framermotion"></img>&nbsp;&nbsp;
 
 
 
