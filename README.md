@@ -62,6 +62,7 @@
   <p>
      <img width="40" height="40" src="https://skillicons.dev/icons?i=p5js"></img>&nbsp;&nbsp;
     <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg"></img>&nbsp;&nbsp;
+    <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg"></img>&nbsp;&nbsp;
   </p>
   
 
