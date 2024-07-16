@@ -57,7 +57,7 @@
   <img width="40" height="40" src="https://skillicons.dev/icons?i=replit"></img>&nbsp;&nbsp;
 </p>
   <h4  class="heading-element" dir="auto">
-    Motion:
+    Animations & Motion:
   </h4>
   <p>
      <img width="40" height="40" src="https://skillicons.dev/icons?i=p5js"></img>&nbsp;&nbsp;
