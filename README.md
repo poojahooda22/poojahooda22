@@ -21,6 +21,7 @@
     <img width="40" height="40" src="https://skillicons.dev/icons?i=ts"></img>&nbsp;&nbsp;
     <img width="40" height="40" src="https://skillicons.dev/icons?i=html"></img>&nbsp;&nbsp;
      <img width="40" height="40" src="https://skillicons.dev/icons?i=css"></img>&nbsp;&nbsp;
+     <img width="40" height="40" src="https://skillicons.dev/icons?i=sass"></img>&nbsp;&nbsp;
   <img width="40" height="40" src="https://skillicons.dev/icons?i=java"></img>&nbsp;&nbsp;
   </p>
   <h4>Libraries & Frameworks:</h4>
