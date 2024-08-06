@@ -70,7 +70,8 @@
   <div>
     <h2>📊GitHub Stats :</h4>
     <img width="400" height="400" src="https://github-readme-stats.vercel.app/api?username=poojahooda22" alt="img" />
-    <img src="[![trophy](https://github-profile-trophy.vercel.app/?username=poojahooda22)](https://github.com/poojahooda22/github-profile-trophy)" alt=""/>
+    <img width="400" height="400" src="https://github-readme-streak-stats.herokuapp.com/?user=poojahooda22" alt="stats" />
+    <img width="400" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poojahooda22" alt=""/>
   </div>
 
 
