@@ -66,7 +66,11 @@
     <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg"></img>&nbsp;&nbsp;
     <img width="40" height="40" src="https://skillicons.dev/icons?i=threejs"></img>&nbsp;&nbsp;
   </p>
-  
+
+  <div>
+    <h4>📊GitHub Stats :</h4>
+    img width="40" height="40" src="https://github-readme-stats.vercel.app/api?username=poojahooda22" alt="img" />
+  </div>
 
 
 
