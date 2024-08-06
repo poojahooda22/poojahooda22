@@ -68,8 +68,8 @@
   </p>
 
   <div>
-    <h4>📊GitHub Stats :</h4>
-    img width="40" height="40" src="https://github-readme-stats.vercel.app/api?username=poojahooda22" alt="img" />
+    <h2>📊GitHub Stats :</h4>
+    <img width="40" height="40" src="https://github-readme-stats.vercel.app/api?username=poojahooda22" alt="img" />
   </div>
 
 
