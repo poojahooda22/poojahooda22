@@ -1,7 +1,7 @@
 # 💫About Me :
 Hi, I'm Pooja, great to see you here 👋<br/>
 I am a Full Stack Developer, skilled in technologies like Next js, JavaScript, TypeScript, React.js, and Node.js. Passionate about leveraging technology for innovative solutions, I've contributed to projects integrating frontend libraries with API and cloud technologies, demonstrating my ability to innovate and execute complex projects. Eager to collaborate and drive impactful technology solutions, 
-let's connect to 
+let's connect t
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pooja-h-21b473124/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/phooda938) 
